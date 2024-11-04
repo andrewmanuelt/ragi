@@ -1,0 +1,574 @@
+[
+    {
+        "id": "covidqa1612i0p0",
+        "context": "Platform Terapeutik RNAi untuk Penyakit Paru-paruhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3816685/Fujita, Yu; Takeshita, Fumitaka; Kuwano, Kazuyoshi; Ochiya, Takahiro2013-02-06DOI:10.3390/ph6020223Lisensi:cc-byAbstrak: Interferensi RNA (RNAi) dengan cepat menjadi metode penting untuk menganalisis fungsi gen pada banyak eukariota dan menjanjikan untuk pengembangan pembungkaman gen terapeutik"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1",
+        "context": ".Induksi RNAi bergantung pada RNA pembungkaman kecil, yang memengaruhi degradasi RNA pembawa pesan spesifik (mRNA).Dua jenis molekul RNA kecil, i.e.RNA pengganggu kecil (siRNA) dan mikroRNA (miRNA), adalah pusat dari RNAi.Studi penemuan obat dan perawatan baru siRNA saat ini menargetkan berbagai penyakit, termasuk berbagai infeksi virus dan kanker"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2",
+        "context": ".Penyakit paru-paru pada umumnya merupakan target yang menarik untuk terapi siRNA karena mematikan dan prevalensinya.Selain itu, paru-paru secara anatomi dapat diakses oleh agen terapeutik melalui rute intrapulmoner.Baru-baru ini, semakin banyak bukti menunjukkan bahwa miRNA memainkan peran penting dalam kelainan paru-paru, seperti peradangan dan onkogenesis"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3",
+        "context": ".Oleh karena itu, miRNA ditargetkan untuk tujuan terapeutik.Dalam tinjauan ini, kami menyajikan strategi untuk pengiriman RNAi dan membahas terapi berbasis RNAi canggih saat ini untuk berbagai penyakit paru-paru.Teks: bedah tradisional, Bivas-Benita dkk.melaporkan bahwa tidak ada kematian yang terjadi sebagai akibat dari penggunaan endotrakeal teknik"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4",
+        "context": ".Aplikasi endotrakea saat ini digunakan oleh banyak praktisi di bidang paru [22, 34] ; ini berguna untuk mempelajari pengiriman obat paru pada tikus.Namun, pendekatannya lebih kompleks pada manusia karena jalur buatan untuk pengiriman obat ke paru-paru digunakan.Oleh karena itu, metode ini digunakan dalam model hewan untuk menguji dan mengevaluasi keandalannya untuk kemungkinan aplikasi klinis"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5",
+        "context": ".Rute intratrakea: di bawah anestesi, trakea dipaparkan melalui pembedahan, dan tabung atau jarum dimasukkan melalui sayatan yang dibuat di antara cincin trakea.Komplikasi, seperti cedera pembuluh darah dan kebocoran udara, dimungkinkan karena trakeotomi"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6",
+        "context": ".(b) Rute endotrakeal: siRNA disemprotkan langsung dari mulut ke paru-paru menggunakan aerolizer MicroSprayer \u00ae (Penn-Century, Philadelphia, PA, USA) dan laringoskop.Penting untuk menjaga pandangan yang jelas tentang trakea selama prosedur.Pengiriman intranasal adalah metode umum lainnya dari aplikasi obat paru dalam penelitian pada hewan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7",
+        "context": ".Dalam banyak penelitian, keberhasilan in vivo telah ditunjukkan dalam mengirimkan siRNA ke paru-paru secara intranasal [22, 35, 36 ].Pengaturan eksperimental pengiriman intranasal dengan semprotan atau tetesan sederhana dan tidak menyakitkan bagi hewan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8",
+        "context": ".Meskipun keberhasilan dalam mengirimkan siRNA secara intranasal pada hewan pengerat tidak dapat sepenuhnya diekstrapolasi untuk penggunaan manusia karena perbedaan yang signifikan dalam anatomi paru-paru [37], pendekatan ini memiliki potensi untuk aplikasi klinis siRNA"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9",
+        "context": ".Uji klinis Fase II telah dimulai untuk pengobatan infeksi virus pernapasan syncytial (RSV), memanfaatkan aplikasi intranasal molekul siRNA telanjang yang dimodifikasi secara kimiawi yang menargetkan produk gen virus [17, 38] (lihat Bagian 3.1.1.untuk detailnya).Entri intranasal telah lama digunakan untuk memberikan molekul kecil, seperti protein, untuk pengiriman sistemik"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10",
+        "context": ".Karena mukosa hidung sangat vaskularisasi, pengiriman epitel tipis obat melintasi area permukaan dapat menghasilkan penyerapan obat yang cepat ke dalam darah.Oleh karena itu, siRNA yang diberikan secara intranasal mungkin disimpan di hidung, dan beberapa di antaranya mungkin tidak dapat mencapai saluran pernapasan bagian bawah"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11",
+        "context": ".Faktanya, telah dilaporkan bahwa aplikasi intranasal siRNA yang tidak diformulasikan menghasilkan efisiensi pengiriman yang lebih rendah dan distribusi paru yang homogen daripada yang dicapai dengan aplikasi intratrakea [31]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12",
+        "context": ".Metode intranasal cocok untuk beberapa penyakit paru-paru, seperti infeksi saluran pernapasan atas oleh RSV, dan juga memiliki potensi untuk pengiriman sistemik daripada pengiriman siRNA paru.Oleh karena itu, penting untuk mempertimbangkan rute pemberian dalam penelitian pada hewan ketika menilai pengiriman dan kemanjuran terapeutik dari formulasi untuk pengiriman paru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13",
+        "context": ".Pilihan yang cermat untuk pengiriman yang efisien dalam menanggapi kondisi penyakit paru-paru diperlukan.Penggunaan aerosol untuk mengantarkan obat ke paru-paru memiliki sejarah panjang.Pemberian dengan inhalasi adalah metode yang populer dan non-invasif untuk mengirimkan agen ke paru-paru.Ada beberapa alat inhalasi yang tersedia untuk pengiriman obat ke paru-paru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14",
+        "context": ".Inhaler dosis terukur (MDI) dan inhaler bubuk kering (DPI) adalah mode pengiriman inhalasi yang paling umum"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15",
+        "context": ".MDI adalah inhaler yang paling umum digunakan untuk beberapa penyakit paru-paru, seperti asma, bronkitis, dan penyakit paru obstruktif kronis (PPOK), dan spacer adalah perangkat eksternal yang dipasang pada MDI untuk memungkinkan pengiriman obat yang lebih baik dengan meningkatkan koordinasi aktuasi dan inhalasi"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16",
+        "context": ".Untuk sebagian besar MDI, propelan adalah satu atau lebih gas yang disebut klorofluorokarbon (CFC).Meskipun CFC dalam obat aman bagi pasien untuk menghirup, mereka berbahaya bagi lingkungan.Oleh karena itu, pengembangan lebih lanjut dari siRNA yang dapat dihirup mungkin bukan cara terbaik ke depan.DPI adalah perangkat yang mengantarkan obat ke paru-paru dalam bentuk bubuk kering"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17",
+        "context": ".Penggunaan DPI telah menunjukkan janji untuk pengiriman makromolekul terapeutik in vivo seperti insulin [39] dan heparin dengan berat molekul rendah [40] ; dengan demikian, ini bisa menjadi perangkat yang lebih baik untuk mengirimkan siRNA ke paru-paru.Keuntungan dari DPI adalah peningkatan stabilitas dan sterilitas biomolekul dibandingkan aerosol cair dan pembentukan bebas propelan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18",
+        "context": ".Meskipun obat umumnya dikirim ke paru-paru melalui inhalasi, sebagian besar studi in vivo menggunakan siRNA mengandalkan pengiriman intratrakea atau intranasal.Alasannya bisa jadi karena kesulitan dalam merumuskan siRNA yang dapat dihirup dan menjaga stabilitas selama proses pengiriman"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19",
+        "context": ".Pembawa yang sesuai juga diperlukan untuk melindungi asam nukleat dari degradasi karena gaya geser dan peningkatan suhu selama proses pengeringan.Penggunaan pengeringan semprot sebagai teknik untuk merekayasa formulasi bubuk kering nanopartikel siRNA, yang mungkin memungkinkan pengiriman lokal siRNA yang aktif secara biologis langsung ke jaringan paru-paru, telah ditunjukkan [24, 25]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20",
+        "context": ".Di masa depan, teknik ini diinginkan untuk memperkirakan studi in vivo tentang terapi siRNA untuk inhalasi.Dalam jangka panjang, kami mengantisipasi bahwa akan ada perangkat yang lebih canggih untuk penggunaan klinis dan yang saat ini sedang dikembangkan akan lebih cocok.Ada dua hambatan utama untuk pengiriman siRNA paru yang efisien ke sel-sel paru-paru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21",
+        "context": ".Yang pertama adalah anatomi paru-paru yang kompleks dan bercabang dan penghalang biomekanik, seperti lapisan lendir yang menutupi sel-sel jalan napas [41, 42] (Gambar 2).Fitur yang luar biasa dari saluran pernapasan adalah tingkat percabangannya yang tinggi.Jalan napas terdiri dari bronkiolus pernapasan, saluran alveolar, dan kantung alveolar"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22",
+        "context": ".Semua struktur ini memiliki alveoli, kantung udara kecil tempat pertukaran gas terjadi.Secara umum diakui bahwa faktor penting untuk pengiriman siRNA yang efisien tergantung pada sifat-sifat partikel obat RNAi dalam hal ukuran, muatan, bentuk, kecepatan dan kepadatan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23",
+        "context": ".Untuk pengiriman siRNA paru yang efisien, partikel harus disimpan di saluran pernapasan bagian bawah', \"Deposisi di jalan napas dipengaruhi oleh ukuran partikel dan fungsi paru-paru pasien\", ' Ukuran partikel antara 1-5 \u03bcm ditemukan paling tepat untuk pengendapan di saluran pernapasan bawah [23]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24",
+        "context": ".Selain itu, keberadaan lendir dan protein surfaktan, tindakan pembersihan mukosiliari, dan fagositosis oleh makrofag menghadirkan hambatan utama untuk pengiriman paru yang ditargetkan.Oleh karena itu, sistem pengiriman biasanya memerlukan vektor pengiriman, dan vektor ini perlu dirancang untuk memaksimalkan pengendapan siRNA ke area saluran pernapasan yang sakit"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25",
+        "context": ".Selain itu, hambatan ekstraseluler untuk pengiriman siRNA juga tergantung pada fitur fisiologis saluran pernapasan, yang dapat berubah dengan stadium penyakit dan karakteristik pasien.Pada tahap aktif penyakit paru-paru, kondisi fisiologis saluran udara dapat berubah dan berdampak signifikan pada efisiensi sistem pengiriman paru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26",
+        "context": ".Selama infeksi, peradangan, dan reaksi alergi, ada peningkatan sekresi lendir bersama dengan gangguan pembersihan mukosilier [43].Selain itu, asma dan PPOK keduanya adalah kondisi peradangan kronis paru-paru yang terkait dengan \"remodeling\" struktural yang tidak sesuai untuk pemeliharaan fungsi paru-paru normal [44]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27",
+        "context": ".Ketebalan dinding jalan napas, viskositas tinggi, dan komposisi lapisan lendir dapat diubah pada pasien yang memiliki penyakit paru-paru inflamasi.Gambar 2.Hambatan ekstraseluler untuk pengiriman siRNA paru.Fitur anatomi saluran pernapasan adalah tingkat percabangannya yang tinggi.Lendir melapisi epitel pernapasan dari rongga hidung ke bronkiolus terminal"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28",
+        "context": ".Partikel yang disimpan pada sel epitel bersilia dengan cepat dibersihkan oleh tindakan pembersihan mukosilia.Lendir dan pembersihan mukosilia dari partikel yang terperangkap lendir adalah mekanisme pertahanan paru sebagai penghalang fisiologis.Di alveolar, sel clara dan sel alveolar tipe II mengeluarkan di permukaan epitel alveolar, membentuk lapisan tipis surfaktan paru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29",
+        "context": ".Surfaktan bertindak sebagai penghalang utama untuk pengiriman siRNA karena mengurangi efisiensi transfeksi.Selain itu, makrofag yang terletak di alveoli dengan cepat menelan partikel asing oleh fagositosis.Partikel-partikel yang dibawa ke dalam makrofag kemudian terdegradasi di dalam sel.Faktor-faktor ini menghadirkan hambatan utama untuk pengiriman paru yang ditargetkan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30",
+        "context": ".Yang kedua adalah membran sel saluran napas dan hambatan intraselulernya ( Gambar 3 ).Untuk pembungkaman gen yang efisien di paru-paru, siRNA harus dikirim ke tempat kerjanya, stabil, memasuki sel target, dan hadir dalam sitoplasma pada konsentrasi yang cukup"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31",
+        "context": ".Setelah siRNA mencapai sel target, mereka harus diperdagangkan ke sitoplasma dan diambil oleh Argonaute (Ago)2/RNA-induced silencing complex (RISC), yang menurunkan mRNA dan, selanjutnya, menekan ekspresi gen spesifik sekuens.Agar endositosis yang efisien terjadi, partikel harus berukuran di bawah 150 nm"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32",
+        "context": ".Partikel dalam kisaran ukuran ini juga dapat menghindari penyerapan makrofag dan pembersihan paru-paru yang tertunda [45].Sifat fisikokimia siRNA juga memainkan peran penting dalam melintasi membran biologis.Meskipun ukurannya kecil, muatan negatif dan degradabilitas kimia molekul siRNA mencegah mereka untuk mudah melintasi membran biologis"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33",
+        "context": ".Oleh karena itu, pendekatan pengiriman siRNA yang efisien perlu mengatasi keterbatasan ini dengan memfasilitasi penyerapan seluler.Salah satu fungsi utama vektor pengiriman adalah untuk memfasilitasi penyerapan seluler siRNA [46].Kompleksasi elektrostatik molekul siRNA dengan lipid dan polimer kationik membantu menutupi muatan negatif bersihnya"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34",
+        "context": ".Kompleks pembawa siRNA bermuatan positif berinteraksi dengan proteoglikan anionik pada membran sel, membentuk vesikel endositik, dan memasuki sel dengan endositosis [47].Setelah internalisasi seluler, kompleks pembawa siRNA dalam vesikel endositik diangkut di sepanjang mikrotubulus ke lisosom yang terlokalisasi bersama dengan pusat pengorganisir mikrotubulus"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35",
+        "context": ".Untuk menghindari degradasi lisosom, siRNA harus melarikan diri dari endosom ke sitoplasma, di mana mereka dapat berasosiasi dengan mesin RNAi.Pelarian endosomal adalah penghalang utama untuk pengiriman siRNA yang efisien [48, 49].Jebakan endosomal dan degradasi lisosom siRNA dan pembawa berkontribusi pada efisiensi transfeksi yang rendah dan merupakan kesulitan utama untuk vektor pengiriman"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36",
+        "context": ".Agen pengiriman yang ideal harus melindungi siRNA dari degradasi enzimatik, memfasilitasi penyerapan seluler, dan mempromosikan pelarian endosom di dalam sel dengan toksisitas yang dapat diabaikan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37",
+        "context": ".Berbagai pendekatan untuk pengiriman siRNA telah dilaporkan, mulai dari pemberian langsung siRNA yang diformulasikan garam yang relatif sederhana hingga pendekatan nanopartikel berbasis lipid dan berbasis polimer serta konjugasi siRNA dan pendekatan kompleksasi [50]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38",
+        "context": ".Muatan negatif dan degradabilitas kimia siRNA dalam kondisi yang relevan secara fisiologis membuat pengirimannya menjadi tantangan besar.Oleh karena itu, pengiriman siRNA biasanya membutuhkan vektor atau pembawa untuk transfeksinya ke dalam sel target.Secara umum, vektor virus dan non-virus sedang dinilai untuk pengiriman siRNA ke sel paru-paru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39",
+        "context": ".Beberapa vektor virus, seperti retrovirus dan adenovirus, telah terbukti memediasi pembungkaman gen dalam model paru-paru in vitro [51] dan untuk menginduksi RNAi di berbagai jaringan hewan [52].Baru-baru ini, Guo et al"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40",
+        "context": ".menunjukkan bahwa siRNA yang dimediasi lentivirus digunakan untuk secara khusus merobohkan ekspresi protein nuklir 1 (NUPR1) in vivo, yang mengakibatkan pertumbuhan tumor terhambat [53].Namun, pengiriman berbasis virus memiliki beberapa kelemahan.Respon imun terhadap virus tidak hanya menghambat pengiriman gen tetapi juga berpotensi menyebabkan komplikasi parah [54]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41",
+        "context": ".Kasus baru-baru ini yang didokumentasikan dengan baik, seperti kematian Jesse Gelsinger karena komplikasi yang terkait dengan vektor pengiriman adenoviral, menyoroti masalah ini [55].Selain itu, beberapa vektor virus dapat memasukkan genom mereka pada posisi acak di kromosom inang, yang akhirnya membatasi fungsi gen [56]..Hambatan intraseluler untuk pengiriman siRNA paru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42",
+        "context": ".Hambatan internalisasi seluler tergantung pada sifat permukaan siRNA dan pembawa (e.g., muatan dan ukuran).Setelah siRNA berhasil dibawa ke sel target oleh endositosis, hambatan utama untuk mengirimkan siRNA ke lokasi aksinya adalah jebakan endosom dan degradasi lisosom siRNA dan pembawa"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43",
+        "context": ".Untuk mengarahkan pembungkaman gen target, siRNA perlu melarikan diri dari endosom ke sitoplasma, di mana mereka berasosiasi dengan kompleks pembungkaman yang diinduksi Ago2/RNA (RISC) untuk mengarahkan pembelahan mRNA yang memiliki situs pengikatan komplementer"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44",
+        "context": ".Sebagai alternatif vektor virus, vektor non-virus, termasuk vektor berbasis lipid dan polimer, umumnya digunakan untuk pengiriman siRNA ke paru-paru karena toksisitasnya yang berkurang [57].Penelitian yang sedang berlangsung ke dalam transfeksi sel primer dan seluruh organisme dengan siRNA menggunakan agen transfeksi non-virus telah menghasilkan beberapa hasil yang menjanjikan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45",
+        "context": ".Vektor pengiriman berbasis lipid berhasil digunakan untuk mengirimkan siRNA secara in vitro dan in vivo [58].Lipid kationik terdiri dari kepala bermuatan positif, penghubung dan hidrofobik.Secara umum, kompleks berbasis lipid mudah diformulasikan dan kemanjuran transfeksi yang baik dicapai karena interaksi dengan sel bermuatan negatif membrance"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46",
+        "context": ".Banyak agen transfeksi siRNA komersial adalah sistem pengiriman berbasis lipid, beberapa di antaranya juga digunakan untuk pengiriman paru-DharmFECT [30], Oligofectamine [59], Lipofectamine [60] dan TransIT-TKO [35].Demikian pula, polimer kationik juga telah dinilai untuk pengiriman siRNA ke sel paru-paru.polimer kationik polietilenimin (PEI) banyak digunakan untuk pengiriman siRNA [13, 61]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47",
+        "context": ".PEI dianggap sebagai standar emas untuk pengiriman gen in vitro dan transfeksinya efisiensi tergantung pada berat molekul dan tingkat percabangan.Di sisi lain, vektor berbasis lipid juga dapat menginduksi toksisitas dan aktivasi non-spesifik dari sitokin inflamasi dan respons interferon [62, 63]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48",
+        "context": ".Meskipun vektor berbasis polimer menimbulkan respons imun yang relatif kurang kuat daripada vektor berbasis lipid, pengiriman siRNA yang efektif ke area lokal pada penyakit paru-paru membutuhkan lebih banyak perhatian pada pengembangan vektor pengiriman non-beracun"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49",
+        "context": ".Poin penting untuk penghambatan ekspresi gen yang dimediasi siRNA adalah apakah efek yang diamati bersifat spesifik daripada karena efek di luar target dan bebas dari respons interferon potensial [64, 65]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50",
+        "context": ".Menariknya, beberapa penelitian telah menunjukkan bahwa dimungkinkan untuk memberikan \"siRNA telanjang\" pada tikus dan menurunkan regulasi target endogen atau eksogen tanpa menginduksi respons interferon [66].Istilah \"siRNA telanjang\" mengacu pada pengiriman siRNA tanpa vektor pengiriman apa pun"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51",
+        "context": ".SiRNA telanjang terdegradasi oleh endonuklease serum dan biasanya dihilangkan oleh filtrasi glomerulus, menghasilkan waktu paruh plasma pendek < 10 menit.Dengan demikian, beberapa penelitian tentang pengiriman sistemik siRNA telanjang telah gagal mencapai penurunan regulasi gen yang ditargetkan [67, 68]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52",
+        "context": ".Sebaliknya, ada juga beberapa keberhasilan mengirimkan siRNA telanjang secara lokal ke paru-paru [15, 16, 20, 31].Beberapa dari mereka melaporkan bahwa penggunaan vektor pengiriman menunjukkan tidak ada perbedaan yang signifikan dalam efisiensi pembungkaman gen dibandingkan dengan siRNA telanjang [16, 35]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53",
+        "context": ".Memang, dalam satu uji klinis, pengiriman siRNA telanjang untuk pengobatan RSV telah digunakan [17, 38].Bukti yang berhasil ini bisa karena siRNA telanjang untuk aplikasi klinis sangat dimodifikasi secara kimiawi untuk mencegah degradasi yang diinduksi nuklease dan mungkin meminimalkan efek stimulasi kekebalan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54",
+        "context": ".Meskipun tidak jelas bagaimana siRNA telanjang melintasi membran sel, mendapatkan akses ke sitoplasma, dan tetap utuh untuk melakukan tindakan biologis mereka, uji coba hewan dan manusia telah berhasil dilakukan, menunjukkan kemanjuran siRNA telanjang (ALN-RSV01) yang diberikan secara intranasal"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55",
+        "context": ".Penjelasan ini belum dikonfirmasi, tetapi kerusakan fisiologis sel epitel pernapasan yang disebabkan oleh infeksi virus mungkin telah memengaruhi misteri.Perubahan aktif dalam membran sel epitel saluran napas yang disebabkan oleh penyakit menular dapat mempengaruhi internalisasi sel"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56",
+        "context": ".Pengiriman siRNA telanjang memiliki beberapa keunggulan, seperti pembentukan sederhana dan tidak adanya toksisitas atau respons inflamasi yang biasanya dikaitkan dengan vektor pengiriman.Namun demikian, keuntungan siRNA telanjang dibandingkan vektor pengiriman dalam pengobatan penyakit paru-paru kontroversial [69, 70]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57",
+        "context": ".Investigasi in vivo lebih lanjut tentang siRNA telanjang dan vektor non-virus diperlukan.Penyakit paru-paru adalah penyebab utama kematian, dan kualitas hidup yang berkurang bertanggung jawab atas penderitaan banyak pasien.Berbagai penyakit paru-paru membuat hidup sangat sulit bagi pasien, dan kasus-kasus parah dari penyakit paru-paru ini dapat mengakibatkan kematian"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58",
+        "context": ".Tingkat kematian yang tinggi yang terkait dengan kanker paru-paru sebagian disebabkan oleh fakta bahwa sayangnya sulit untuk disembuhkan.Di atas segalanya, PPOK adalah penyebab kematian keempat di sebagian besar negara industri dan diperkirakan akan menjadi yang ketiga pada tahun 2020 [71]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59",
+        "context": ".Oleh karena itu, tindakan tegas diperlukan untuk membendung meningkatnya beban kesehatan dan ekonomi yang diwakilinya.Penyakit paru-paru kronis, seperti PPOK dan asma, adalah gangguan saluran udara yang sebagian besar terkait dengan adanya peradangan persisten.Persetujuan kortikosteroid inhalasi memelopori terapi generasi baru dalam mengobati penyakit inflamasi kronis"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60",
+        "context": ".Ini adalah pertama kalinya produk anti-inflamasi tersedia untuk mengurangi peradangan paru-paru yang khas di saluran udara dan obstruksi terkait.Kortikosteroid masih merupakan intervensi terapeutik yang penting.Namun, mereka digunakan dengan keterbatasan pada PPOK dan asma sedang hingga berat"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61",
+        "context": ".Demikian juga, pengobatan berbagai penyakit paru-paru refrakter juga tergantung pada terapi kortikosteroid sistemik.Banyak dari pasien ini juga menderita berbagai efek samping dari penggunaan kortikosteroid sistemik, seperti penambahan berat badan dan hiperglikemia yang tidak terkontrol"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62",
+        "context": ".Pengobatan penyakit paru-paru menggunakan penargetan spesifik sel serta teknik RNAi mewakili strategi baru dan mungkin dapat memberikan peluang baru dalam nanomedis.Aplikasi paru-paru siRNA dalam kondisi in vivo sering dipelajari dan sering menghasilkan uji klinis [57, 72].Temuan studi klinis terbaru dari terapi RNAi paru dibahas"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63",
+        "context": ".Sejak penemuan RNAi, potensi terapeutik siRNA telah diakui dengan cepat.Pada tahun 2004, uji klinis manusia pertama dari terapi berbasis RNAi dimulai untuk pengobatan degenerasi makula terkait usia dengan siRNA yang menargetkan reseptor VEGF 1 yang dikirimkan intravitreally [73]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64",
+        "context": ".Banyak penelitian telah dilakukan selama beberapa tahun terakhir yang melibatkan pengiriman siRNA ke paru-paru untuk pengobatan berbagai penyakit paru-paru.Pengiriman ke paru-paru akan menjadi yang paling penting untuk memindahkan teknologi siRNA ke klinik"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65",
+        "context": ".Sejumlah terapi berbasis siRNA sedang dievaluasi dalam uji klinis untuk pengobatan kondisi yang berbeda, termasuk penyakit paru-paru seperti asma dan infeksi RSV.Tabel 1 adalah ringkasan uji klinis terapi berbasis siRNA [74]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66",
+        "context": ".SiRNA menunjukkan potensi untuk pengobatan berbagai infeksi virus paru, dan telah dilaporkan bahwa terapi berbasis siRNA juga dapat digunakan dalam pengobatan influenza [13], virus parainfluenza [35], sindrom pernapasan akut parah (SARS) [14], dan RSV [35].Di atas segalanya, RSV adalah target terapeutik siRNA yang paling menjanjikan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67",
+        "context": ".RSV adalah penyebab umum infeksi pernapasan serius pada bayi dan anak-anak.Ini juga menghasilkan morbiditas dan mortalitas yang signifikan pada populasi dewasa dengan gangguan kekebalan atau lansia [75].Vaksin RSV tidak tersedia, dan satu-satunya terapi antivirus yang disetujui untuk RSV tidak diinginkan untuk pasien anak karena potensi teratogenisitas dan efektivitasnya yang terbatas"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68",
+        "context": ".Dengan demikian, terapi RSV yang aman dan berkhasiat telah lama ditunggu-tunggu untuk pasien anak dan dewasa.Terapi berbasis RNAi telah menunjukkan efek yang menjanjikan dalam model infeksi RSV tikus [35].SiRNA, ALN-RSV01, diarahkan terhadap mRNA yang mengkodekan protein N RSV yang menunjukkan aktivitas anti-RSV in vitro dan in vivo spesifik"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69",
+        "context": ".Ini disampaikan tanpa vektor pengiriman sebagai semprotan hidung dan menargetkan saluran pernapasan bagian atas alih-alih paru-paru bagian bawah area.ALN-RSV01 telah menjalani studi intranasal dan inhalasi fase I lengkap pada orang dewasa yang sehat dan telah ditemukan umumnya dapat ditoleransi dengan baik [38]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70",
+        "context": ".Selain itu, ALN-RSV01 telah dievaluasi dalam uji coba fase II acak, buta ganda, terkontrol plasebo pada pasien transplantasi paru-paru dengan infeksi saluran pernapasan RSV [76].Pemberian ALN-RSV01 untuk pasien transplantasi paru-paru yang terinfeksi RSV aman dan dapat ditoleransi dengan baik dan terkait dengan yang signifikan secara statistik perbaikan gejala"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71",
+        "context": ".Berdasarkan hasil ini, uji coba multinasional, acak, buta ganda ALN-RSV01 telah dimulai pada pasien transplantasi paru-paru untuk mengkonfirmasi dan memperluas temuan ini"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72",
+        "context": ".Kanker adalah target utama terapi berbasis RNAi, karena onkogen, gen penekan tumor yang bermutasi, dan beberapa gen lain yang berkontribusi pada perkembangan tumor berpotensi menjadi target penting untuk pembungkaman gen oleh RNAi.Kanker paru-paru adalah salah satu tumor yang paling sering terjadi di seluruh dunia sehubungan dengan tingkat kejadian dan kematian"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73",
+        "context": ".Pasien dengan kanker paru-paru umumnya didiagnosis pada stadium lanjut penyakit dan memiliki pilihan terapeutik yang terbatas.Meskipun pengetahuan mengenai dasar genetik dan molekuler kanker paru-paru telah meningkat secara teratur, tingkat kelangsungan hidup rata-rata individu dengan kanker paru-paru stadium lanjut masih buruk"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74",
+        "context": ".Terapi berbasis RNAi adalah strategi yang menarik untuk pengembangan terapi antikanker yang lebih efektif dengan mengurangi toksisitas terkait pengobatan.Keuntungan utama terapi RNAi pada kanker mungkin adalah penargetan simultan dari beberapa gen yang termasuk dalam jalur seluler yang berbeda yang terlibat dalam perkembangan tumor"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75",
+        "context": ".Penghambatan beberapa gen secara bersamaan juga akan meminimalkan risiko resistensi obat yang biasanya ditemui dengan terapi berbasis molekul kecil, melibatkan siRNA dan miRNA"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76",
+        "context": ".Sudah ada peningkatan yang signifikan dalam siRNA untuk pengobatan kanker paru-paru primer atau metastasis dengan menargetkan onkogen seperti Akt1 [9], Wilms tumor 1 (WT1) [12], gen yang diekspresikan secara berlebihan seperti reseptor faktor pertumbuhan seperti insulin 1 (IGF-1R) [77], NUPR1 [53] dan EZH2 [78]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77",
+        "context": ".Beberapa penelitian ini telah berhasil menunjukkan kemanjuran terapi berbasis RNAi melalui pemberian siRNA intrapulmoner dengan vektor non-virus"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78",
+        "context": ".Meskipun strategi untuk meminimalkan efek stimulasi kekebalan di luar target dan nonspesifik harus dirancang, data ini menunjukkan bahwa pembungkaman gen target dengan siRNA adalah strategi yang menarik untuk pencegahan dan pengobatan kanker paru-paru primer dan metastasis"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79",
+        "context": ".Saat ini ada beberapa uji klinis yang sedang berlangsung untuk memperkirakan keamanan dan kemanjuran obat berbasis siRNA untuk pengobatan kanker.Atu027, siRNA-lipoplex yang ditargetkan terhadap protein kinase N3 (PKN3), mencegah metastasis paru-paru dalam uji coba fase I dari berbagai model kanker [79]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80",
+        "context": ".PKN3 adalah efektor hilir dari jalur pensinyalan fosfoinositide 3-kinase (PI3K) [80], yang mengatur beragam respons seluler, termasuk perkembangan, pertumbuhan, dan kelangsungan hidup [81]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81",
+        "context": ".Baru-baru ini, PKN3 juga telah dianggap sebagai target terapeutik yang cocok untuk memodulasi angiogenesis tumor karena hilangnya analisis fungsi dengan Atu027 di sel endotel primer yang dikultur menunjukkan peran penting PKN3 untuk pembentukan dan migrasi tabung endotel [79]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82",
+        "context": ".Atu027 dapat dianggap sebagai siRNA potensial untuk mencegah metastasis paru-paru dan mungkin cocok untuk mencegah metastasis hematogen yang dikombinasikan dengan terapi kanker konvensional.Penyakit paru-paru inflamasi, juga disebut PPOK, mencakup berbagai penyakit paru-paru.Penyakit terkait ini termasuk asma, fibrosis paru, dan bronkitis kronis"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83",
+        "context": ".Mereka dipengaruhi oleh kombinasi komponen lingkungan, genetik, dan epigenetik [82].PPOK adalah penyakit radang kronis pada saluran udara.Penyakit ini ditandai dengan aliran udara yang tidak sepenuhnya reversibel.Peradangan saluran napas sistemik dan lokal telah terlibat dalam patogenesis PPOK [83]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84",
+        "context": ".PPOK terutama terkait dengan merokok tembakau, dan penelitian terbaru yang menyelidiki patofisiologi emfisema telah menunjukkan bahwa asap rokok dapat menyebabkan sel memasuki penuaan sel.Merokok dapat menyebabkan sel menua karena kerusakan DNA melalui peningkatan pergantian sel, yang pada gilirannya menyebabkan pemendekan telomer yang dipercepat [84]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85",
+        "context": ".Akhir-akhir ini, banyak penelitian telah menyelidiki peran penuaan seluler dalam perkembangan dan perkembangan PPOK [85].Meskipun beberapa kelas obat, termasuk kortikosteroid inhalasi, digunakan untuk pengobatan PPOK, tidak satu pun dari obat-obatan ini telah terbukti secara signifikan meningkatkan fungsi paru-paru jangka panjang selama perkembangan penyakit"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86",
+        "context": ".Intervensi saat ini yang telah terbukti meningkatkan kematian pada PPOK adalah berhenti merokok dan pengiriman oksigen tambahan ketika hipoksemia hadir.Banyak orang mengembangkan PPOK, dan penyebab kondisi ini rumit dan tidak dipahami secara menyeluruh.Salah satu faktor kunci adalah kerentanan genetik"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87",
+        "context": ".Beberapa penelitian telah menunjukkan kontribusi genetik yang besar terhadap variabilitas fungsi paru dan PPOK [86, 87].Polimorfisme pada beberapa gen telah dilaporkan terkait dengan PPOK [87], seperti faktor transkripsi [e.g.faktor nuklir-kappa B (NF\u03baB)] [88], matriks ekstraseluler (e.g., matriks metalloproteinase-12 (MMP-12)) [89, 90], sitokin [e.g"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88",
+        "context": ".faktor nekrosis tumor (TNF)-\u03b1] [91], kemokin [e.g.interleukin (IL)-8, reseptor IL-8 dan reseptor kemokin (CCR)1] [92, 93], dan apoptosis (e.g., caspase-3 dan faktor pertumbuhan endotel vaskular (VEGF)) [94, 95].Banyak dari ini telah diidentifikasi sebagai target yang mungkin untuk intervensi terapeutik menggunakan penghambat molekul atau antagonis"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89",
+        "context": ".Meskipun beberapa pengobatan baru yang menargetkan proses inflamasi sekarang sedang dalam pengembangan klinis, seperti inhibitor TNF-\u03b1 dan inhibitor I-kappaB kinase complex 2 (IKK2) [96, 97], uji klinis dengan siRNA tidak pernah dilakukan pada PPOK.Keterlambatan pengembangan obat untuk PPOK mungkin disebabkan oleh munculnya penelitian yang relatif baru yang membahas dasar molekuler PPOK"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90",
+        "context": ".Selanjutnya, penelitian lebih lanjut diperlukan untuk memahami mekanisme molekuler penting tentang patogenesis PPOK dan untuk mengembangkan teknik pemantauan untuk mendukung pengembangan terapi RNAi.Saat ini, tidak ada pengobatan yang tersedia untuk mengurangi perkembangan PPOK atau menekan peradangan di saluran udara kecil dan parenkim paru-paru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91",
+        "context": ".Pendekatan berbasis RNAi untuk molekul kunci juga memiliki implikasi potensial untuk pengobatan PPOK.Asma juga merupakan penyakit radang kronis pada saluran udara yang ditandai dengan gejala variabel dan berulang serta obstruksi aliran udara yang dapat dibalik"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92",
+        "context": ".Organisasi Kesehatan Dunia memperkirakan bahwa 300 juta orang saat ini terpengaruh dan bahwa, pada tahun 2025, 100 juta lainnya akan terkena penyakit [98].Kortikosteroid yang dihirup sangat efektif pada asma ringan karena memperbaiki gejala dan mengurangi eksaserbasi.Namun, pada asma sedang dan berat, kortikosteroid yang dihirup memiliki keterbatasan terapeutik yang penting"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93",
+        "context": ".Meskipun kortikosteroid tetap menjadi intervensi terapeutik yang penting untuk paru-paru inflamasi penyakit, penggunaannya tidak selalu sepenuhnya efektif dan dikaitkan dengan efek samping.Karena keterbatasan seperti itu, jelas bahwa ada kebutuhan akan jenis obat baru yang dapat mengobati dan meningkatkan prognosis asma sedang hingga berat"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94",
+        "context": ".Banyak gen target telah diidentifikasi yang berpartisipasi dalam patogenesis asma"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95",
+        "context": ".Target yang paling menjanjikan termasuk gen yang mengkodekan sitokin (IL-4, IL5, dan IL-13), reseptor sitokin dan kemokin (reseptor IL-4 dan CCR3), dan tirosin kinase [limpa tirosin kinase (Syk) dan tirosin kinase baru terkait LCK/YES (Lyn)], serta untuk faktor transkripsi [transduser sinyal dan aktivator transkripsi 1 (STAT1), STAT6, GATA3, dan NF\u03baB] yang terlibat dalam asma [19, 99, 100]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96",
+        "context": ".Gen yang telah dinilai sebagai target siRNA untuk pengobatan asma dalam model praklinis dilaporkan [101].Saat ini, dalam uji klinis untuk asma, Excellair TM (ZaBeCor, Bala Cynwyd, PA, USA), siRNA yang menargetkan Syk, sedang digunakan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97",
+        "context": ".Kinase terlibat dalam pensinyalan dari reseptor sel B dan merupakan pengatur kunci kaskade pensinyalan hilir yang pada akhirnya mengarah pada aktivasi beberapa faktor transkripsi pro-inflamasi"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98",
+        "context": ".Telah dilaporkan bahwa oligonukleotida antisense yang diberikan oleh aerosol ampuh untuk menurunkan ekspresi Syk, pelepasan mediator dari makrofag alveolar, dan peradangan paru yang bergantung pada Syk [102]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99",
+        "context": ".Selain itu, penghambatan mediator inflamasi ditunjukkan dalam sebuah penelitian menggunakan siRNA yang menargetkan Syk dalam sel epitel saluran napas [103] ', \" Mengikuti keberhasilan hasil uji klinis Fase I perusahaan, uji coba Fase II untuk kandidat obat asmanya Excellair TM telah dimulai\", 'Beberapa perawatan saat ini untuk asma dan kondisi peradangan lainnya, seperti inhibitor TNF-\u03b1 atau inhibitor leukotriene, menghambat hanya salah satu mediator peradangan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100",
+        "context": ".Sebaliknya, siRNA menargetkan Syk berusaha untuk menghambat langkah pensinyalan awal peradangan dan, dengan demikian, mencegah pelepasan beberapa mediator inflamasi.Secara keseluruhan, kemajuan siRNA baru-baru ini ke paru-paru juga telah meningkatkan kelayakan terapeutik RNAi untuk penyakit paru-paru inflamasi.Kemajuan pesat akan menempatkan terapi berbasis siRNA pada jalur cepat ke klinik"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101",
+        "context": ".MiRNA adalah RNA noncoding endogen kecil yang mengatur ekspresi gen dengan menekan translasi atau mempromosikan degradasi mRNA targetnya.MiRNA mengatur ekspresi gen dengan mengikat 3\u2032 daerah yang tidak diterjemahkan (UTR) dari mRNA targetnya dan memediasi degradasi mRNA atau penghambatan translasi.Dalam genom manusia, transkrip sekitar 60% dari semua mRNA diperkirakan ditargetkan oleh miRNA [104]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102",
+        "context": ".Menurut fungsinya, miRNA memainkan peran penting dalam proses seluler sebagai perkembangan, proliferasi, dan apoptosis patologi paru [105].Semakin banyak miRNA telah terbukti terlibat dalam berbagai penyakit paru-paru.Bukti ini menjadikan miRNA teknologi yang menjanjikan untuk pengembangan terapeutik saat ini dan masa depan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103",
+        "context": ".Kami membahas peran beberapa miRNA dalam berbagai penyakit paru-paru serta kemungkinan masa depan penemuan ini dalam aplikasi klinis.Tabel 2 menunjukkan ringkasan miRNA dalam pengembangan terapeutik.Pada titik ini, terapi berbasis miRNA telah memasuki uji klinis fase II"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104",
+        "context": ".Ada bukti bahwa upregulasi atau penurunan regulasi miRNA sangat penting untuk homeostasis paru-paru dan, dengan demikian, dapat berkontribusi pada perkembangan kondisi paru-paru patologis.Banyak penelitian telah berfokus pada peran miRNA dalam penyakit paru-paru inflamasi, seperti PPOK [116, 117], fibrosis paru [118] [119] [120] [121], dan asma [122] [123] [124] [125] (Tabel 3)"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105",
+        "context": ".[130] [117, 129] Patogenesis PPOK dikaitkan tidak hanya dengan peradangan kronis di saluran udara tetapi juga peradangan sistemik [131].Merokok adalah faktor risiko utama untuk perkembangan PPOK.Merokok telah terbukti menyebabkan perubahan biologis dalam ekspresi gen paru-paru [132], dan ada beberapa laporan tentang miRNA terkait merokok [117, 129, 130]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106",
+        "context": ".Namun, ada beberapa laporan yang berfokus pada miRNA yang terkait dengan patogenesis penyakit ini dengan komponen inflamasi sistemik.Studi terbaru tentang fibroblas paru pasien PPOK menyajikan lebih sedikit ekspresi miR-146a setelah stimulasi dengan sitokin proinflamasi jika dibandingkan dengan subjek non-PPOK dengan riwayat merokok serupa [127]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107",
+        "context": ".Downregulasi miR-146a menghasilkan waktu paruh mRNA siklooksigenase-2 yang berkepanjangan, sehingga meningkatkan prostaglandin E2 pada fibroblas dari subjek PPOK.Selain itu, Ezzie et al.meneliti perbedaan profil miRNA yang diekspresikan di paru-paru perokok dengan dan tanpa PPOK.Mereka menyimpulkan bahwa miR-223 dan miR-1274a adalah miRNA yang paling terpengaruh pada subjek dengan PPOK [126]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108",
+        "context": ".Namun, PPOK adalah gangguan yang kompleks, multi-komponen, dan heterogen dengan sejumlah proses patologis dan subkelompok yang berbeda dengan karakteristik dan sejarah alamnya sendiri [133].Pemahaman yang lebih baik tentang kompleksitas penyakit dan relevansi klinis potensial dari miRNA yang diidentifikasi diperlukan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109",
+        "context": ".Fibrosis paru dapat disebabkan oleh iritasi yang dapat diidentifikasi pada paru-paru, tetapi, dalam banyak kasus, penyebabnya tidak diketahui, dan kemungkinan terapeutiknya terbatas.Merokok adalah salah satu faktor risiko yang paling dikenal untuk perkembangan fibrosis paru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110",
+        "context": ".Gangguan ini terutama disertai dengan peningkatan ekspresi mediator fibrotik utama yang mengubah faktor pertumbuhan \u03b2 (TGF-\u03b2) dan sitokin lain yang diproduksi pada lesi fibrosis aktif [128].Baru-baru ini, dilaporkan bahwa miRNA dapat memainkan peran regulasi penting dalam perubahan fibrotik paru di paru-paru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111",
+        "context": ".Penurunan regulasi let-7d pada fibrosis paru idiopatik (IPF) mengakibatkan peningkatan pengendapan kolagen dan penebalan septum alveolar [119].Selain itu, Liu et al.melaporkan bahwa miR-21 onkogenik ditemukan diregulasi pada pasien IPF dan di paru-paru tikus dengan fibrosis yang diinduksi bleomycin [118]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112",
+        "context": ".Meskipun miRNA ini mungkin menjadi target terapeutik potensial karena ekspresinya terkait dengan regulasi TGF-\u03b2, faktor tersebut diperlukan tetapi tidak cukup untuk fibrosis patologis paru-paru.Fibrosis paru juga merupakan penyakit rumit yang dapat memiliki banyak penyebab berbeda.Fokus pada peran miRNA pada asma baru-baru ini meningkat"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113",
+        "context": ".Asma adalah penyakit radang jalan napas yang ditandai dengan respons abnormal limfosit CD2+T tipe T helper-4 (Th2) terhadap alergen yang dihirup [134].Pada model tikus asma yang berbeda, ada peningkatan yang diamati dalam ekspresi miR-21 di paru-paru [123]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114",
+        "context": ".Laporan ini mungkin berkontribusi pada pemahaman mekanisme inflamasi di saluran napas melalui penghambatan IL-12, mendukung respons limfosit Th2.Limfosit Th2 yang diinduksi reseptor seperti tol 4 (TLR4) menginduksi ekspresi miR-126 yang tinggi, dan blokade selektif miR-126 menekan fenotipe asma [124]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115",
+        "context": ".Selain itu, remodeling jalan napas adalah ciri khas asma dan memiliki implikasi fungsional yang penting.Rodriguez et al.telah menunjukkan bahwa miR-155 terkait dengan perkembangan infiltrasi inflamasi ke dalam paru-paru dan remodeling jalan napas [122]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116",
+        "context": ".Dengan demikian, beberapa penelitian menyajikan hubungan fungsional antara ekspresi miRNA dan patogenesis asma dan menunjukkan bahwa menargetkan miRNA di saluran udara dapat mengarah pada perawatan anti-inflamasi untuk asma alergi"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117",
+        "context": ".Terlepas dari bukti dari model eksperimental, profil ekspresi miRNA dalam biopsi saluran napas dari pasien dengan asma ringan sebelum dan sesudah pengobatan dengan kortikosteroid inhalasi dan pada sukarelawan sehat mengungkapkan tidak ada perbedaan dalam ekspresi miRNA [135].Investigasi lebih lanjut tentang peran miRNA yang terkait dengan patogenesis asma diperlukan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118",
+        "context": ".Meskipun bukti dasar biologi miRNA masih memberikan wawasan baru, aplikasi terapi berbasis miRNA untuk penyakit paru-paru inflamasi kurang maju daripada yang ada untuk kanker paru-paru [136].Salah satu alasannya adalah bahwa heterogenitas penyakit disebabkan oleh efek banyak polutan udara lingkungan, termasuk asap dan senyawa organik yang mudah menguap"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119",
+        "context": ".Adanya beberapa faktor risiko membuat pemahaman tentang patogenesis penyakit paru-paru inflamasi menjadi rumit.Memahami peran yang dimainkan miRNA dalam modulasi ekspresi gen, yang mengarah untuk mempertahankan patogenesis penyakit paru-paru, penting untuk pengembangan terapi baru yang berfokus pada pencegahan perkembangan penyakit dan pereda gejala"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120",
+        "context": ".Mengingat peran penting yang dimainkan miRNA dalam berbagai jalur karsinogenesis paru-paru, peningkatan upaya didedikasikan untuk penelitian dan pengembangan terapi berbasis miRNA, termasuk memulihkan fungsi miRNA penekan tumor atau menghambat miRNA onkogenik.Pengembangan terapi berbasis miRNA untuk kanker paru-paru tumbuh makmur dengan bantuan teknologi RNAi baru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121",
+        "context": ".Dibandingkan dengan terapi berbasis siRNA, yang sudah dalam uji klinis, miRNA kurang beracun dan memiliki potensi untuk menargetkan banyak gen.Kesulitan yang terkait dengan pengiriman miRNA terutama sama dengan siRNA.Masalah kritis untuk pengembangan terapi ini adalah pengiriman yang efektif ke situs target, potensi terapi, dan penghapusan efek di luar target [137]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122",
+        "context": ".Ada dua strategi sebagai aplikasi terapeutik miRNA untuk kanker paru-paru [138].Salah satu strategi adalah terapi penggantian miRNA, yang melibatkan pengenalan kembali penekan tumor miRNA miMIM untuk mengembalikan hilangnya fungsi.Mimik MiRNA adalah dupleks RNA sintetis yang dirancang untuk meniru fungsi endogen miRNA dengan modifikasi kimia untuk stabilitas dan penyerapan seluler"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123",
+        "context": ".Konsep terapi penggantian miRNA paling dicontohkan oleh miRNA let-7.let-7 adalah miRNA penekan tumor pada kanker paru-paru non-sel kecil yang berkorelasi terbalik dengan ekspresi onkoprotein RAS, gen kanker kunci [139]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124",
+        "context": ".Pemberian intranasal let-7 meniru ke dalam model tikus kanker paru-paru secara signifikan mengurangi pertumbuhan tumor, menunjukkan bahwa terapi penggantian miRNA memang menjanjikan [106, 140, 141].MiRNA lain yang menunjukkan nilai penggantian miRNA disediakan oleh miR-34a [107, 142]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125",
+        "context": ".Pengiriman lokal dan/atau sistemik dari miR-34a sintetis mimik menyebabkan akumulasi miR-34a dalam jaringan tumor dan penghambatan pertumbuhan tumor paru-paru.Baru-baru ini, Ling et al.juga menunjukkan bahwa penekan tumor miR-22 menunjukkan aktivitas anti-kanker paru-paru melalui regulasi pasca-transkripsi ErbB3 [143]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126",
+        "context": ".Dengan demikian, mimik miRNA terapeutik memiliki potensi yang kuat dengan menyerang beberapa gen yang relevan dengan beberapa penyakit.Namun, perlu untuk memperhatikan potensi toksisitas pada jaringan normal dalam kondisi di mana pengiriman terapeutik miRNA miRNA akan menyebabkan akumulasi miRNA eksogen dalam sel normal [138]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127",
+        "context": ".Meskipun asumsi tersebut beralasan, masih belum ada cukup bukti untuk toksisitas yang disebabkan oleh mimik miRNA.Memang, beberapa studi in vivo gagal mengungkapkan efek samping yang disebabkan oleh mimik miRNA dan menyarankan bahwa pengiriman mimik miRNA ke jaringan normal ditoleransi dengan baik [107, 141]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128",
+        "context": ".Penting untuk meneliti efek yang diinduksi mimik miRNA dalam sel normal dan untuk menilai toksisitas dengan hati-hati sebelum menggunakannya dalam praktik klinis"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129",
+        "context": ".Strategi kedua diarahkan pada peningkatan fungsi dan bertujuan untuk menghambat oncomiR dengan menggunakan anti-miRNA', \" Modifikasi kimia, seperti 2'-O-metil-gugus dan asam nukleat terkunci (LNA), akan meningkatkan stabilitas oligo terhadap nuklease [144] \", ' Antisense oligonukleotida yang terkandung dalam modifikasi ini disebut antagomir atau \"LNA-antimiR\" [144, 145]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129i0p130",
+        "context": ".Mereka adalah oligonukleotida dengan urutan yang melengkapi miRNA endogen dan menghambat fungsi miRNA spesifik.LNA-antimiR terhadap miR-122 telah terbukti secara efektif membungkam miR-122 pada primata non-manusia [145], dan temuan tersebut mendukung potensi senyawa ini sebagai kelas terapi baru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129i0p130i0p131",
+        "context": ".Selain itu, juga telah dilaporkan bahwa anti-miR-150 yang dikirim ke xenograft tumor paru-paru pada tikus menyebabkan pertumbuhan tumor yang terhambat [146].Relatif terhadap studi tentang miRNA mimics, studi dengan oligonukleotida antisense telah menunjukkan bukti efektif dengan oligonukleotida telanjang"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129i0p130i0p131i0p132",
+        "context": ".Ini menggambarkan potensi modifikasi kimia oligonukleotida untuk meningkatkan stabilitasnya, resistensi terhadap RNase, dan sifat farmakologis.Oleh karena itu, penghambatan fungsi miRNA oleh oligonukleotida antimiR yang dimodifikasi secara kimiawi telah menjadi pendekatan yang penting dan banyak digunakan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129i0p130i0p131i0p132i0p133",
+        "context": ".Data terbaru dari studi fase II pertama pada pasien dengan infeksi HCV kronis yang diobati dengan AntimiR-122 yang dimodifikasi LNA menunjukkan bahwa senyawa ini dapat ditoleransi dengan baik dan memberikan penekanan virus yang berkelanjutan.Semakin banyak penelitian telah meneliti potensi terapeutik miRNA.Baru-baru ini, bukti peran miRNA dalam menentukan resistensi obat telah muncul [147]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129i0p130i0p131i0p132i0p133i0p134",
+        "context": ".Obat target sitotoksik dan molekuler telah banyak digunakan dalam pengobatan kanker paru-paru stadium lanjut; sayangnya, banyak kasus masih refrakter terhadap kemoterapi.Dalam situasi ini, menggabungkan miRNA mimik atau antimiR dengan kemoterapi dapat mempotensiasi kemanjuran pengobatan kanker di masa depan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129i0p130i0p131i0p132i0p133i0p134i0p135",
+        "context": ".Selain itu, miRNA yang terkait dengan sel induk kanker dapat secara signifikan memperluas bidang terapi berbasis miRNA dan menunjukkan bahwa miRNA dapat menjadi alat potensial untuk membunuh sel kanker yang terkait dengan resistensi terapi, kekambuhan, dan metastasis [108, 148]"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129i0p130i0p131i0p132i0p133i0p134i0p135i0p136",
+        "context": ".Oleh karena itu, tantangan utamanya adalah keberhasilan pengiriman dan modifikasi kimia miRNA terapeutik ke jaringan target tanpa merusak jaringan normal.Pendekatan berbasis RNAi memberikan modalitas terapeutik yang menjanjikan untuk pengobatan berbagai penyakit paru-paru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129i0p130i0p131i0p132i0p133i0p134i0p135i0p136i0p137",
+        "context": ".Salah satu tantangan terbesar dalam terapi berbasis RNAi terus menjadi metode pengiriman siRNA terapeutik dan miRNA ke sel target.Aplikasi pengiriman paru sangat menarik, karena cenderung non-invasif, dibatasi secara lokal, dan dapat diberikan oleh pasien"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129i0p130i0p131i0p132i0p133i0p134i0p135i0p136i0p137i0p138",
+        "context": ".Intervensi terapeutik yang realistis, seperti aerosolisasi, dapat meningkatkan pengiriman obat ke tempat tindakan dan mengurangi paparan sistemik pasien terhadap terapi, sehingga mengurangi efek di luar target.Kemajuan pengiriman siRNA paru ke klinik menggambarkan bahwa terapi berbasis RNAi memegang tempat sentral di masa depan pengobatan penyakit paru-paru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129i0p130i0p131i0p132i0p133i0p134i0p135i0p136i0p137i0p138i0p139",
+        "context": ".Di sisi lain, miRNA memiliki kesempatan untuk menargetkan banyak gen dengan cara yang disesuaikan, dan terapi berbasis miRNA akan memberikan pendekatan anti-tumor dan anti-inflamasi yang menarik untuk berbagai penyakit paru-paru"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129i0p130i0p131i0p132i0p133i0p134i0p135i0p136i0p137i0p138i0p139i0p140",
+        "context": ".Secara khusus, terapi anti-miRNA dengan oligonukleotida antimiR yang dimodifikasi secara kimiawi telah menjadi terapi potensial untuk penyakit paru-paru karena oligonukleotida dapat berhasil dikirimkan tanpa vektor pengiriman"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129i0p130i0p131i0p132i0p133i0p134i0p135i0p136i0p137i0p138i0p139i0p140i0p141",
+        "context": ".Peningkatan bukti telah menunjukkan bahwa miRNA memenuhi peran penyebab dalam berbagai penyakit paru-paru dan telah mendorong penyelidikan ke dalam potensinya sebagai target terapeutik.Pemahaman lebih lanjut tentang mekanisme terperinci dari terapi berbasis RNAi dan penyelidikan metode pengiriman yang lebih efektif diperlukan untuk pengembangan di masa depan"
+    },
+    {
+        "id": "covidqa1612i0p0i0p1i0p2i0p3i0p4i0p5i0p6i0p7i0p8i0p9i0p10i0p11i0p12i0p13i0p14i0p15i0p16i0p17i0p18i0p19i0p20i0p21i0p22i0p23i0p24i0p25i0p26i0p27i0p28i0p29i0p30i0p31i0p32i0p33i0p34i0p35i0p36i0p37i0p38i0p39i0p40i0p41i0p42i0p43i0p44i0p45i0p46i0p47i0p48i0p49i0p50i0p51i0p52i0p53i0p54i0p55i0p56i0p57i0p58i0p59i0p60i0p61i0p62i0p63i0p64i0p65i0p66i0p67i0p68i0p69i0p70i0p71i0p72i0p73i0p74i0p75i0p76i0p77i0p78i0p79i0p80i0p81i0p82i0p83i0p84i0p85i0p86i0p87i0p88i0p89i0p90i0p91i0p92i0p93i0p94i0p95i0p96i0p97i0p98i0p99i0p100i0p101i0p102i0p103i0p104i0p105i0p106i0p107i0p108i0p109i0p110i0p111i0p112i0p113i0p114i0p115i0p116i0p117i0p118i0p119i0p120i0p121i0p122i0p123i0p124i0p125i0p126i0p127i0p128i0p129i0p130i0p131i0p132i0p133i0p134i0p135i0p136i0p137i0p138i0p139i0p140i0p141i0p142",
+        "context": ".Pendekatan baru ini dapat membuka jalan baru untuk berbagai penyakit paru-paru dan meningkatkan hasil klinis pasien."
+    }
+]

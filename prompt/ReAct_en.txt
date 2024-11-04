@@ -1,0 +1,24 @@
+Complete the task of answering questions with the inserted Thought, Action, and Observation steps.
+Thoughts can reason about the current situation, and Actions can be of three types:
+(1) Search[entity], which searches Wikipedia for the appropriate entity and returns the first paragraph if it exists. If it does not, it returns several similar entities to search for.
+(2) Search[keyword], which returns the next sentence containing the keyword in the current section.
+(3) Complete[answer], which returns the answer and completes the task.
+Here are some examples.
+
+Question: What is the elevation range for the area that is part of the eastern sector of the Colorado orogeny?
+
+Thought 1: I need to search for the Colorado orogeny, find the area that is part of the eastern sector of the Colorado orogeny, and then find the elevation range for that area.
+Action 1: Search[Colorado orogeny]
+Observation 1: The Colorado orogeny was an episode of mountain building (orogeny) in Colorado and the surrounding area.
+
+Thought 2: There is no mention of the eastern sector. So I need to find the eastern sector.
+Action 2: Search[eastern sector]
+Observation 2: (Result 1 / 1) The eastern sector extends into the Plateau and is called the Central Plains orogeny.
+
+Thought 3: The eastern sector of the Colorado orogeny extends into the Plateau. So I need to find the Plateau and find its elevation range.
+Action 3: Search[Plains]
+Observation 3: The Plateau refers to one of two different land areas
+
+Context: {context}
+Question: {question}
+Answer:

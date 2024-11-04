@@ -1,0 +1,38 @@
+[
+    {
+        "question": "Deli serdang provinsi di mana ?",
+        "answer": "Sumatra Utara",
+        "context": "Bupati Deli Serdang bertanggungjawab kepada gubernur provinsi Sumatra Utara.",
+        "id": "strain6"
+    },
+    {
+        "question": "Provinsi di indonesia apa provinsi indonesia ?",
+        "answer": "Maluku",
+        "context": "Maluku adalah sebuah provinsi yang meliputi bagian selatan Kepulauan Maluku, Indonesia.",
+        "id": "strain7"
+    },
+    {
+        "question": "Kota pangkal pinang ibu kota di mana ?",
+        "answer": "Provinsi Kepulauan Bangka Belitung",
+        "context": "Tempat ini merupakan latar dari tetralogi Laskar Pelangi yang ditulis Andrea Hirata.Kota Pangkal Pinang: Merupakan ibu kota Provinsi Kepulauan Bangka Belitung yang ditetapkan sejak tahun 2002.",
+        "id": "strain28"
+    },
+    {
+        "question": "Kofi annan lahir di kota apa ?",
+        "answer": "Kumasi",
+        "context": "Ia adalah pendiri dan ketua Kofi Annan Foundation sekaligus ketua The Elders, organisasi internasional yang didirikan oleh Nelson Mandela.Annan lahir di Kumasi dan mendalami ilmu ekonomi di Macalester College, hubungan internasional di Graduate Institute Geneva, dan manajemen di MIT.",
+        "id": "strain29"
+    },
+    {
+        "question": "Di mana negara amerika serikat ?",
+        "answer": "Mississippi",
+        "context": "Mississippi merupakan sebuah negara bagian Amerika Serikat.",
+        "id": "strain30"
+    },
+    {
+        "question": "Di mana terletak di provinsi alessandria ?",
+        "answer": "Gavazzana",
+        "context": "Gavazzana adalah komune yang terletak di distrik Provinsi Alessandria, Italia.",
+        "id": "strain250"
+    }
+]

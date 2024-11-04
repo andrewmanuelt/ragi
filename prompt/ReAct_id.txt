@@ -1,0 +1,23 @@
+Selesaikan tugas menjawab pertanyaan dengan langkah-langkah yang dimasukkan: Pemikiran, Tindakan, dan Observasi. Pemikiran dapat merenungkan situasi saat ini, dan Tindakan dapat terdiri dari tiga jenis:  
+(1) Search[entitas], yang mencari Wikipedia untuk entitas yang sesuai dan mengembalikan paragraf pertama jika ada. Jika tidak ada, maka akan mengembalikan beberapa entitas serupa untuk dicari.  
+(2) Search[kata kunci], yang mengembalikan kalimat berikutnya yang mengandung kata kunci dalam bagian saat ini.  
+(3) Complete[jawaban], yang mengembalikan jawaban dan menyelesaikan tugas.  
+Berikut adalah beberapa contoh.
+
+Pertanyaan: Apa kisaran ketinggian untuk area yang merupakan bagian dari sektor timur orogeny Colorado?
+
+Pemikiran 1: Saya perlu mencari orogeny Colorado, menemukan area yang merupakan bagian dari sektor timur orogeny Colorado, dan kemudian menemukan kisaran ketinggian untuk area tersebut.  
+Tindakan 1: Search[oergeny Colorado]  
+Observasi 1: Orogeny Colorado adalah episode pembentukan gunung (orogeny) di Colorado dan daerah sekitarnya.
+
+Pemikiran 2: Tidak ada penyebutan sektor timur. Jadi saya perlu menemukan sektor timur.  
+Tindakan 2: Search[sektor timur]  
+Observasi 2: (Hasil 1 / 1) Sektor timur meluas ke Dataran dan disebut orogeny Dataran Tengah.
+
+Pemikiran 3: Sektor timur orogeny Colorado meluas ke Dataran. Jadi saya perlu mencari Dataran dan menemukan kisaran ketinggiannya.  
+Tindakan 3: Search[Dataran]  
+Observasi 3: Dataran merujuk pada salah satu dari dua area daratan yang berbeda.
+
+Konteks: {context}
+Pertanyaan: {question}
+Jawaban:
