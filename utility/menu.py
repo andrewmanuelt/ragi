@@ -26,7 +26,7 @@ class Menu():
             store_path = str(f"./database/dummy").lower()
             file_path = str(f"./dataset/dummy.json").lower()
         else:
-            store_path = str(f"./database/{collection}/single_{collection}").lower()
+            store_path = str(f"./database/{collection}").lower()
             file_path = str(f"./dataset/{collection}/{collection}_train.json").lower()
         
         loader = Loader()
