@@ -1,6 +1,7 @@
 import sys
 import time
 import inspect
+import yaml
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
@@ -30,7 +31,7 @@ class General(Utility):
             e = message 
         
         if func is None and e is None:
-            print(f"[{timestamp}][E]")
+            print(f"[{timestamp}][E] {e}")
         elif func is not None:
             print(f"[{timestamp}][E][{func}] {e}")
         elif e is not None:
@@ -59,6 +60,35 @@ class General(Utility):
             sys.exit(1)
         
         return  "".join(collection)
+    
+    def yamlp(self):
+        with open('./config/config.yaml') as f:
+            config = yaml.load(f, Loader=yaml.FullLoader)
+        
+        collection = dict()
+        collection_model = dict()
+        
+        for cfg in config:
+            if list(cfg.keys())[0] == 'model':
+                for item in cfg['model']:
+                    for param in item:  
+                        row = {}
+                                              
+                        row[param] = {
+                            'model_name': item[param][0]['model_name'], 
+                            'model_repo': item[param][1]['model_repo'],
+                            'max_token': item[param][2]['max_token'],
+                            'temperature': item[param][3]['temperature'],
+                            'repetition_penalty': item[param][4]['repetition_penalty'],
+                        }
+                        
+                        collection_model.update(row)
+            else:
+                collection.update(cfg)
+        
+        collection.update(collection_model)
+        
+        return collection
      
 class Prompt(Utility):
     def call(self) -> any:
@@ -80,6 +110,3 @@ class Splitter(Utility):
         )
         
         return splitter.split_text(text)
-    
-# gen = General(fn='general')
-# gen.errors()

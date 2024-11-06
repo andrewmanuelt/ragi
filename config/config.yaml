@@ -1,0 +1,15 @@
+- appname: 'ragi'
+- ver: '0.1'
+- model:
+  - gpt:
+    - model_name: 'gpt'
+    - model_repo: 'openai-community/gpt2'
+    - max_token: 50
+    - temperature: 0.5
+    - repetition_penalty: 1.2
+  - llama2:
+    - model_name: 'llama2'
+    - model_repo: 'meta-llama/Llama-2-7b'
+    - max_token: 100
+    - temperature: 0.5
+    - repetition_penalty: 1.2
