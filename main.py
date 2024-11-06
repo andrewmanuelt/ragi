@@ -1,16 +1,51 @@
 import sys 
 
-from model.gpt import GPT
+from model.gpt2 import GPT2
 from embedding.mpnet import MPNet
 from embedding.simcse import SIMCSE
 from utility.utility import General
 from utility.menu import Menu
-
-from utility.loader import Loader
+from evaluator.evaluator import Evaluator
 
 class App(General, Menu):
     def main(self):    
-        self.menu_dataset()
+        # self.menu_dataset()
+        
+        query = "What kind of child is Goku?"
+
+        gpt = GPT2()
+        model = gpt.model()
+        tokenizer = gpt.tokenizer()
+        
+        input = gpt.tokenizing(tokenizer=tokenizer, query=query)
+        result = gpt.generate(model=model, input=input)
+        
+        candidate = [
+            tokenizer.decode(result[0])
+        ]
+        
+        reference = [
+            'Son Gohan'
+        ]
+        
+        evaluator = Evaluator()
+        score = evaluator.bert_score(
+            candidate=candidate,
+            reference=reference
+        )
+        print(score)
+        
+        score = evaluator.rouge(
+            candidate=candidate,
+            reference=reference
+        )
+        print(score)
+        
+        score = evaluator.meteor(
+            candidate=candidate,
+            reference=reference
+        )
+        print(score)
 
     def menu_dataset(self):
         print('Dataset menu:')

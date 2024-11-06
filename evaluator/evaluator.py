@@ -2,7 +2,7 @@ import inspect
 import evaluate 
 from evaluate import load 
 
-from nltk.translate import meteor_score
+from nltk.translate.meteor_score import meteor_score
 from utility.utility import General
 
 class Evaluator(General):
@@ -11,8 +11,6 @@ class Evaluator(General):
         
     def meteor(self, candidate: list = None, reference: list = None):
         func = self.func_name()
-        
-        collection = []
         
         if isinstance(candidate, list) is False:
             return self.errors(func=func)
@@ -24,6 +22,8 @@ class Evaluator(General):
             raise Exception(f"Candidate {len(candidate)} dan reference {len(reference)} length is not same")
 
         length = len(candidate)
+        
+        collection = []
         
         for i in range(0, length):
             tok_candidate = str(candidate[i]).split()
@@ -51,7 +51,6 @@ class Evaluator(General):
         return rougescore.compute(
             predictions=candidate, 
             references=reference, 
-            lang='id'
         )
         
     def bert_score(self, candidate: list, reference: list) -> int:
@@ -76,6 +75,3 @@ class Evaluator(General):
          
     def func_name(self) -> str:
         return inspect.stack()[1].function
-
-eval = Evaluator()
-eval.meteor()
