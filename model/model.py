@@ -1,5 +1,3 @@
-import torch
-
 from abc import ABC, abstractmethod
     
 class LLMAbstract(ABC):
@@ -70,7 +68,10 @@ class LLMAbstract(ABC):
         self._max_token = max_token
         self._temperature = temperature
         self._rep_penalty = rep_penalty
-        self._device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
+    
+    @abstractmethod
+    def set_device(self):
+        pass
     
     @abstractmethod
     def model(self) -> any:
@@ -81,13 +82,13 @@ class LLMAbstract(ABC):
         pass
     
     @abstractmethod
-    def tokenizing(self, tokenizer) -> any:
+    def tokenizing(self, tokenizer, query) -> any:
         pass 
     
     @abstractmethod
-    def generate(self, model, tokenizer) -> any:
+    def generate(self, model, input) -> any:
         pass 
     
     @abstractmethod
     def print_params(self):
-        print(self._model_name)
+        print(f"model name: {self._model_name}")
