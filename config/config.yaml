@@ -13,3 +13,9 @@
     - max_token: 100
     - temperature: 0.5
     - repetition_penalty: 1.2
+  - komodo:
+    - model_name: 'komodo'
+    - model_repo: 'Yellow-AI-NLP/komodo-7b-base'
+    - max_token: 100
+    - temperature: 0.5
+    - repetition_penalty: 1.2
