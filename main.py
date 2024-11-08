@@ -1,6 +1,6 @@
 import sys 
 
-from model.gpt2 import GPT2
+from model.komodo import Komodo
 from embedding.mpnet import MPNet
 from embedding.simcse import SIMCSE
 from utility.utility import General
@@ -13,12 +13,12 @@ class App(General, Menu):
         
         query = "What kind of child is Goku?"
 
-        gpt = GPT2()
-        model = gpt.model()
-        tokenizer = gpt.tokenizer()
+        komodo = Komodo()
+        model = komodo.model()
+        tokenizer = komodo.tokenizer()
         
-        input = gpt.tokenizing(tokenizer=tokenizer, query=query)
-        result = gpt.generate(model=model, input=input)
+        input = komodo.tokenizing(tokenizer=tokenizer, query=query)
+        result = komodo.generate(model=model, input=input)
         
         candidate = [
             tokenizer.decode(result[0])

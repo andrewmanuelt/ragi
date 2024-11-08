@@ -43,7 +43,7 @@ class Llama2(LLMAbstract, General):
 
     def set_params(self):
         config = self.yamlp()
-        config = config['gpt']
+        config = config['llama2']
         
         self._model_name = config['model_name']
         self._model_repo = config['model_repo']
