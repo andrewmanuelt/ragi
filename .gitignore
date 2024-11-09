@@ -1,4 +1,8 @@
 **/__pycache__/
 
 database/*
-dataset/berita/*
+dataset/berita/berita.json
+dataset/covid/covid_train_*.json
+dataset/covid/covid_test_*.json
+dataset/covid/covid_train_*.csv
+dataset/covid/covid_test_*.csv
