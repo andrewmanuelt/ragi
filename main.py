@@ -7,45 +7,59 @@ from utility.utility import General
 from utility.menu import Menu
 from evaluator.evaluator import Evaluator
 
+from utility.loader import Loader
+
 class App(General, Menu):
     def main(self):    
         # self.menu_dataset()
         
-        query = "What kind of child is Goku?"
+        mpnet = MPNet()
+        em = mpnet.load_embedding()
+        emf = mpnet.load_embedding_function()
+        
+        loader = Loader()
+        loader.load_covid(
+            embedding=em, 
+            embedding_function=emf,
+            chunk_size=200,
+            chunk_overlap=20
+        )
+        
+        # query = "What kind of child is Goku?"
 
-        komodo = Komodo()
-        model = komodo.model()
-        tokenizer = komodo.tokenizer()
+        # komodo = Komodo()
+        # model = komodo.model()
+        # tokenizer = komodo.tokenizer()
         
-        input = komodo.tokenizing(tokenizer=tokenizer, query=query)
-        result = komodo.generate(model=model, input=input)
+        # input = komodo.tokenizing(tokenizer=tokenizer, query=query)
+        # result = komodo.generate(model=model, input=input)
         
-        candidate = [
-            tokenizer.decode(result[0])
-        ]
+        # candidate = [
+        #     tokenizer.decode(result[0])
+        # ]
         
-        reference = [
-            'Son Gohan'
-        ]
+        # reference = [
+        #     'Son Gohan'
+        # ]
         
-        evaluator = Evaluator()
-        score = evaluator.bert_score(
-            candidate=candidate,
-            reference=reference
-        )
-        print(score)
+        # evaluator = Evaluator()
+        # score = evaluator.bert_score(
+        #     candidate=candidate,
+        #     reference=reference
+        # )
+        # print(score)
         
-        score = evaluator.rouge(
-            candidate=candidate,
-            reference=reference
-        )
-        print(score)
+        # score = evaluator.rouge(
+        #     candidate=candidate,
+        #     reference=reference
+        # )
+        # print(score)
         
-        score = evaluator.meteor(
-            candidate=candidate,
-            reference=reference
-        )
-        print(score)
+        # score = evaluator.meteor(
+        #     candidate=candidate,
+        #     reference=reference
+        # )
+        # print(score)
 
     def menu_dataset(self):
         print('Dataset menu:')
