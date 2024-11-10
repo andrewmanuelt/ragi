@@ -1,4 +1,5 @@
 import sys 
+import glob
 
 from utility.loader import Loader
 
@@ -51,7 +52,28 @@ class Menu():
         self._menu_load_dataset(embedding, embedding_fn, 'complex')
     
     def _menu_load_covid_dataset(self, embedding, embedding_fn):
-        self._menu_load_dataset(embedding, embedding_fn, 'covid')
+        train = glob.glob('./dataset/covid/covid_train_*.json')
+        
+        for index, train_d in enumerate(train):
+            print(f"processing covid{index}")
+        
+            collection = f"covid{index}"
+            persist_d = f"./database/{collection}"
+            
+            loader = Loader()
+            
+            loader.set_params(
+                collection=collection,
+                embedding=embedding,
+                embedding_function=embedding_fn,
+                persist_dir=persist_d
+            )
+            
+            loader.store(
+                chunk_size=200,
+                chunk_overlap=20,
+                file_path=train_d
+            )
 
     def _menu_load_berita_dataset(self, embedding, embedding_fn):
         self._menu_load_dataset(embedding, embedding_fn, 'berita')
