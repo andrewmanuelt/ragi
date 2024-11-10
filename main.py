@@ -7,45 +7,47 @@ from utility.utility import General
 from utility.menu import Menu
 from evaluator.evaluator import Evaluator
 
+from utility.loader import Loader
+
 class App(General, Menu):
     def main(self):    
-        # self.menu_dataset()
+        self.menu_dataset()
         
-        query = "What kind of child is Goku?"
+        # query = "What kind of child is Goku?"
 
-        komodo = Komodo()
-        model = komodo.model()
-        tokenizer = komodo.tokenizer()
+        # komodo = Komodo()
+        # model = komodo.model()
+        # tokenizer = komodo.tokenizer()
         
-        input = komodo.tokenizing(tokenizer=tokenizer, query=query)
-        result = komodo.generate(model=model, input=input)
+        # input = komodo.tokenizing(tokenizer=tokenizer, query=query)
+        # result = komodo.generate(model=model, input=input)
         
-        candidate = [
-            tokenizer.decode(result[0])
-        ]
+        # candidate = [
+        #     tokenizer.decode(result[0])
+        # ]
         
-        reference = [
-            'Son Gohan'
-        ]
+        # reference = [
+        #     'Son Gohan'
+        # ]
         
-        evaluator = Evaluator()
-        score = evaluator.bert_score(
-            candidate=candidate,
-            reference=reference
-        )
-        print(score)
+        # evaluator = Evaluator()
+        # score = evaluator.bert_score(
+        #     candidate=candidate,
+        #     reference=reference
+        # )
+        # print(score)
         
-        score = evaluator.rouge(
-            candidate=candidate,
-            reference=reference
-        )
-        print(score)
+        # score = evaluator.rouge(
+        #     candidate=candidate,
+        #     reference=reference
+        # )
+        # print(score)
         
-        score = evaluator.meteor(
-            candidate=candidate,
-            reference=reference
-        )
-        print(score)
+        # score = evaluator.meteor(
+        #     candidate=candidate,
+        #     reference=reference
+        # )
+        # print(score)
 
     def menu_dataset(self):
         print('Dataset menu:')
@@ -59,12 +61,12 @@ class App(General, Menu):
             simcse = SIMCSE()
             embedding = simcse.load_embedding()
             embedding_fn = simcse.load_embedding_function()
-        
-            menu = int(input('Menu: '))
             
+            menu = int(input('Menu: '))
+                
             self.menu_handler(menu, embedding=embedding, embedding_fn=embedding_fn)
         except Exception as e:
-            self.errors(message='Input menu error', e=e)
+            self.errors(message='menu error', e=e)
 
 if __name__ == '__main__':
     try: 

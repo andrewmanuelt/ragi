@@ -1,5 +1,6 @@
 import os
 import sys 
+import glob
 import chromadb
 
 from tqdm import tqdm
@@ -12,7 +13,7 @@ from utility.utility import Splitter
 class LoaderAbstract(ABC):
     def __init__(self) -> None:
         self._embedding_fn = None 
-        self.embedding = None
+        self._embedding = None
         self._collection_name = '' 
         self._persist_directory = ''
     
@@ -163,4 +164,26 @@ class Loader(LoaderAbstract):
                     "answer": content.metadata['answer']
                 }],
                 ids=["{id}p{part}".format(id=str(content.metadata['id']), part=i)]
+            )
+
+    def load_covid(self, chunk_size, chunk_overlap, embedding, embedding_function):
+        train = glob.glob('./dataset/covid/covid_train_*.json')
+        
+        for index, train_d in enumerate(train):
+            print(f"processing covid{index}")
+        
+            collection = f"covid{index}"
+            persist_d = f"./database/{collection}"
+            
+            self.set_params(
+                collection=collection,
+                embedding=embedding,
+                embedding_function=embedding_function,
+                persist_dir=persist_d
+            )
+            
+            self.store(
+                chunk_size=chunk_size,
+                chunk_overlap=chunk_overlap,
+                file_path=train_d
             )
