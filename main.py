@@ -11,19 +11,7 @@ from utility.loader import Loader
 
 class App(General, Menu):
     def main(self):    
-        # self.menu_dataset()
-        
-        mpnet = MPNet()
-        em = mpnet.load_embedding()
-        emf = mpnet.load_embedding_function()
-        
-        loader = Loader()
-        loader.load_covid(
-            embedding=em, 
-            embedding_function=emf,
-            chunk_size=200,
-            chunk_overlap=20
-        )
+        self.menu_dataset()
         
         # query = "What kind of child is Goku?"
 
@@ -73,12 +61,12 @@ class App(General, Menu):
             simcse = SIMCSE()
             embedding = simcse.load_embedding()
             embedding_fn = simcse.load_embedding_function()
-        
-            menu = int(input('Menu: '))
             
+            menu = int(input('Menu: '))
+                
             self.menu_handler(menu, embedding=embedding, embedding_fn=embedding_fn)
         except Exception as e:
-            self.errors(message='Input menu error', e=e)
+            self.errors(message='menu error', e=e)
 
 if __name__ == '__main__':
     try: 
