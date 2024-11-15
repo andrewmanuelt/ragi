@@ -1,8 +1,13 @@
 **/__pycache__/
 
 database/*
+results/*
+experimental/*
+
 dataset/berita/berita.json
 dataset/covid/covid_train_*.json
 dataset/covid/covid_test_*.json
 dataset/covid/covid_train_*.csv
 dataset/covid/covid_test_*.csv
+
+dataset/*/test/*
