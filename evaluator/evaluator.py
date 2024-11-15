@@ -12,10 +12,10 @@ class Evaluator(General):
     def meteor(self, candidate: list = None, reference: list = None):
         func = self.func_name()
         
-        if isinstance(candidate, list) is False:
+        if not isinstance(candidate, list):
             return self.errors(func=func)
         
-        if isinstance(reference, list) is False:
+        if not isinstance(reference, list):
             return self.errors(func=func)
 
         if len(candidate) != len(reference):
@@ -37,10 +37,10 @@ class Evaluator(General):
     def rouge(self, candidate: list = None, reference: list = None):
         func = self.func_name()
         
-        if isinstance(candidate, list) is False:
+        if not isinstance(candidate, list):
             return self.errors(func=func)
         
-        if isinstance(reference, list) is False:
+        if not isinstance(reference, list):
             return self.errors(func=func)
 
         if len(candidate) != len(reference):
@@ -56,10 +56,10 @@ class Evaluator(General):
     def bert_score(self, candidate: list, reference: list) -> int:
         func = self.func_name()
         
-        if isinstance(candidate, list) is False:
+        if not isinstance(candidate, list):
             return self.errors(func=func)
         
-        if isinstance(reference, list) is False:
+        if not isinstance(reference, list):
             return self.errors(func=func)
 
         if len(candidate) != len(reference):

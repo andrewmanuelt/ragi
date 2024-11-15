@@ -1,4 +1,6 @@
 import sys 
+import warnings
+warnings.simplefilter("ignore", UserWarning)
 
 from model.komodo import Komodo
 from embedding.mpnet import MPNet
@@ -6,14 +8,77 @@ from embedding.simcse import SIMCSE
 from utility.utility import General
 from utility.menu import Menu
 from evaluator.evaluator import Evaluator
+from hyperparameter.tuning import RetrieverTuning
 
 from utility.loader import Loader
 
+from ray import train, tune
+
 class App(General, Menu):
     def main(self):    
-        self.menu_dataset()
+        paramspace = {
+            'chunk_size': [300, 500, 700, 1000],
+            'chunk_overlap': [0, 30, 50, 60], 
+            'top_k': [5, 10]
+        }
         
-        # query = "What kind of child is Goku?"
+        mpnet = MPNet()
+        mpnet.set_params()
+        
+        em = mpnet.load_embedding()
+        emf = mpnet.load_embedding_function()
+    
+        tuner = RetrieverTuning()
+        tuner.set_paramspace(
+            paramspace=paramspace
+        )        
+        tuner.set_configuration(
+            persist_dir='./database/dummy',
+            collection='dummy',
+            embedding=em,
+            embedding_function=emf,
+            test_dir='./dataset/dummy_test.json',
+            file_path='./dataset/dummy.json'
+        )
+        tuner.run(context='dummy')
+    
+        # self.menu_dataset()
+        
+        # simsce = SIMCSE()
+        # simsce.set_params()
+        
+        # em = simsce.load_embedding()
+        # emf = simsce.load_embedding_function()
+        
+        # loader = Loader()
+        # loader.set_params(
+        #     collection='dummy',
+        #     embedding=em, 
+        #     embedding_function=emf, 
+        #     persist_dir='./database/dummy/'
+        # )
+        
+        # # s:exp:1
+        # num_k=5
+        # score_list=[]
+        # result = loader.load_collection().similarity_search_with_relevance_scores(
+        #     query=query, k=num_k
+        # )
+        # for doc, score in result:
+        #     print(doc.page_content)
+        #     print(score)
+        #     score_list.append(score)
+        # print(sum(score_list)/num_k)
+        # e:exp:1
+        
+        # s:exp:2
+        # retriever = loader.load_collection().as_retriever(search_kwargs={
+        #     'k': 5, 
+        # })
+        # result = retriever.invoke(input=query)
+        # print(result)
+        # e:exp:2
+        
 
         # komodo = Komodo()
         # model = komodo.model()

@@ -1,6 +1,6 @@
 import os
-import sys 
 import glob
+import json
 import chromadb
 
 from tqdm import tqdm
@@ -83,6 +83,16 @@ class Loader(LoaderAbstract):
         return chromadb.PersistentClient(
             path = self._persist_directory
         )
+    
+    def check_is_collection_exist(self, collection_name):
+        client = self._persistent_client()
+        collection_list = client.list_collections()
+        
+        if collection_name in [collection.name for collection in collection_list]:
+            print(f"collection {collection_name} already exist")
+            return True
+        else:
+            return False
         
     def _check_is_collection_exist(self, collection_name):
         client = self._persistent_client()
@@ -97,7 +107,7 @@ class Loader(LoaderAbstract):
     def _collection_instance(self):
         client = self._persistent_client()
         
-        if(self._check_is_collection_exist(self._collection_name)) is False:
+        if not (self._check_is_collection_exist(self._collection_name)):
             return client.create_collection(
                     name = self._collection_name,
                     embedding_function = self._embedding_fn,
@@ -105,9 +115,8 @@ class Loader(LoaderAbstract):
                 )
             
     def _metadata_procesing(self, record, metadata):
-        metadata['question'] = record.get('question')
-        metadata['answer'] = record.get('answer')
         metadata['id'] = record.get('id')
+        metadata['context'] = record.get('context')
         
         return metadata
 
@@ -119,7 +128,7 @@ class Loader(LoaderAbstract):
         )
 
     def _load_document(self, file_path):
-        if os.path.exists(file_path) is False:
+        if not os.path.exists(file_path):
             raise FileNotFoundError(f"Cannot find file in path {file_path}")
 
         loader = JSONLoader(
@@ -152,16 +161,18 @@ class Loader(LoaderAbstract):
             chunk_overlap=chunk_overlap
         )
         
+        data = json.loads(content.page_content)
+        page_content = data["question"] + " " + data ['answer']
+        
         context_split = splitter.call(
-            text=content.page_content,
+            text=page_content,
         )
             
         for i, context in enumerate(context_split):
             collection.add(
                 documents=[context],
                 metadatas=[{
-                    "question": content.metadata['question'],
-                    "answer": content.metadata['answer']
+                    "context": content.metadata['context']
                 }],
                 ids=["{id}p{part}".format(id=str(content.metadata['id']), part=i)]
             )
