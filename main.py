@@ -12,8 +12,6 @@ from hyperparameter.tuning import RetrieverTuning
 
 from utility.loader import Loader
 
-from ray import train, tune
-
 class App(General, Menu):
     def main(self):    
         paramspace = {
