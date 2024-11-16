@@ -1,4 +1,5 @@
 import os 
+import sys
 import json 
 import pandas as pd 
 
@@ -16,6 +17,9 @@ class RetrieverAbstract(ABC):
         self._persist_dir = None 
         self._file_path = None
         self._test_dir = None
+        
+        if not os.path.exists('./results'):
+            os.makedirs('./results', exist_ok=True)
     
     @property 
     def param(self):
@@ -47,42 +51,48 @@ class RetrieverTuning(RetrieverAbstract):
         for chunk_size in self._paramspace['chunk_size']:
             for chunk_overlap in self._paramspace['chunk_overlap']:
                 for k in self._paramspace['top_k']:
-                    collection, persist_dir = self._store(
+                    df = self._processing(
+                        df=df,
                         chunk_size=chunk_size,
                         chunk_overlap=chunk_overlap,
-                        file_path=self._file_path,
                         k=k
                     )
-                    
-                    loader = Loader()
-                    loader.set_params(
-                        embedding=self._embedding,
-                        embedding_function=self._embedding_function,
-                        collection=collection, 
-                        persist_dir=persist_dir
-                    )
-                    
-                    retriever = loader.load_collection()
-                    
-                    score = self._count_mean_score(
-                        retriever=retriever, 
-                        collection_name=collection,
-                        k=k, 
-                    )
-                    
-                    param_obj = {
-                        'chunk_size': chunk_size,
-                        'chunk_overlap': chunk_overlap,
-                        'top_k': k,
-                        'mean_score': score
-                    }
-                    
-                    df.loc[len(df)] = param_obj
-                    
-                    print(score)
         
         df.to_excel(f"./results/report_{context}.xlsx")
-        
+    
+    def _processing(self, df, chunk_size, chunk_overlap, k):
+        collection, persist_dir = self._store(
+            chunk_size=chunk_size,
+            chunk_overlap=chunk_overlap,
+            file_path=self._file_path,
+            k=k
+        )
+                    
+        loader = Loader()
+        loader.set_params(
+            embedding=self._embedding,
+            embedding_function=self._embedding_function,
+            collection=collection, 
+            persist_dir=persist_dir
+        )
+                    
+        retriever = loader.load_collection()
+                    
+        score = self._count_mean_score(
+            retriever=retriever, 
+            collection_name=collection,
+            k=k, 
+        )
+                    
+        df.loc[len(df)] = {
+            'chunk_size': chunk_size,
+            'chunk_overlap': chunk_overlap,
+            'top_k': k,
+            'mean_score': score
+        }
+                    
+        return df
+                    
     def _count_mean_score(self, retriever, collection_name, k):
         test = self._load_test()
         
@@ -166,37 +176,15 @@ class RetrieverTuning(RetrieverAbstract):
         self._persist_dir=persist_dir
         self._test_dir=test_dir
         self._file_path=file_path
-        
-        self._load_test()
 
     def _load_test(self) -> list:
-        collection_name = str(self._collection).split("_")[0]
+        collection = list() 
+        data = None 
         
-        store_collection_test = f"./dataset/{collection_name}/test/test.txt".lower()
+        with open(self._test_dir) as f:
+            data = json.load(f)
         
-        if os.path.exists(store_collection_test):
-            data = None 
+        for row in data:
+            collection.append(row['question'])
             
-            with open(store_collection_test) as f:
-                data = f.read()
-            
-            collection = str(data).replace('[', '').replace(']', '').replace("'", "").split(",")
-            
-            return collection
-        else:
-            data = None
-            
-            with open(self._test_dir) as f:
-                data = json.load(f)     
-            
-            collection = []
-            
-            for row in data:
-                collection.append(row['question'])
-            
-            os.makedirs(f"./dataset/{collection_name}/test/", exist_ok=True)
-            
-            with open(store_collection_test, 'w') as f:
-                f.write(str(collection))
-
-            return collection
+        return collection

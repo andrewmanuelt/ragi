@@ -33,14 +33,14 @@ class App(General, Menu):
             paramspace=paramspace
         )        
         tuner.set_configuration(
-            persist_dir='./database/dummy',
-            collection='dummy',
+            persist_dir='./database/single',
+            collection='single',
             embedding=em,
             embedding_function=emf,
-            test_dir='./dataset/dummy_test.json',
-            file_path='./dataset/dummy.json'
+            test_dir='./dataset/single/single_test.json',
+            file_path='./dataset/single/single_train.json'
         )
-        tuner.run(context='dummy')
+        tuner.run(context='single')
     
         # self.menu_dataset()
         
