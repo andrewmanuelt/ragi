@@ -19,3 +19,27 @@
     - max_token: 100
     - temperature: 0.5
     - repetition_penalty: 1.2
+  - mt5:
+    - model_name: 'mt5'
+    - model_repo: 'google/mt5-base'
+    - max_token: 100
+    - temperature: 0.5
+    - repetition_penalty: 1.2
+  - indot5:
+    - model_name: 'indot5'
+    - model_repo: 'Wikidepia/IndoT5-base'
+    - max_token: 100
+    - temperature: 0.5
+    - repetition_penalty: 1.2
+  - mbart:
+    - model_name: 'mbart'
+    - model_repo: 'facebook/mbart-large-50'
+    - max_token: 100
+    - temperature: 0.5
+    - repetition_penalty: 1.2
+  - indobart:
+    - model_name: 'indobart'
+    - model_repo: 'indobenchmark/indobart-v2'
+    - max_token: 100
+    - temperature: 0.5
+    - repetition_penalty: 1.2
