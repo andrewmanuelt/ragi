@@ -9,7 +9,7 @@
     - repetition_penalty: 1.2
   - llama2:
     - model_name: 'llama2'
-    - model_repo: 'meta-llama/Llama-2-7b'
+    - model_repo: 'meta-llama/Llama-2-7b-chat-hf'
     - max_token: 100
     - temperature: 0.5
     - repetition_penalty: 1.2
@@ -27,7 +27,7 @@
     - repetition_penalty: 1.2
   - indot5:
     - model_name: 'indot5'
-    - model_repo: 'Wikidepia/IndoT5-base'
+    - model_repo: 'LazarusNLP/indo-t5-base'
     - max_token: 100
     - temperature: 0.5
     - repetition_penalty: 1.2
@@ -40,6 +40,18 @@
   - indobart:
     - model_name: 'indobart'
     - model_repo: 'indobenchmark/indobart-v2'
+    - max_token: 100
+    - temperature: 0.5
+    - repetition_penalty: 1.2
+  - sahabataigemma:
+    - model_name: 'sahabataigemma'
+    - model_repo: 'GoToCompany/gemma2-9b-cpt-sahabatai-v1-instruct'
+    - max_token: 100
+    - temperature: 0.5
+    - repetition_penalty: 1.2
+ - gemma:
+    - model_name: 'gemma'
+    - model_repo: 'google/gemma-2-9b-it'
     - max_token: 100
     - temperature: 0.5
     - repetition_penalty: 1.2
